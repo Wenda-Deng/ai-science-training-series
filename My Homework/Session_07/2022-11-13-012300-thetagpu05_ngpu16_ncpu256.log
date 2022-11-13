@@ -1,0 +1,773 @@
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+num labels: 1000
+build dataset /grand/projects/ALCFAITP/ilsvrc_train_filelist.txt
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+{
+    "data": {
+        "handler": "ilsvrc_dataset",
+        "batch_size": 256,
+        "train_filelist": "/grand/projects/ALCFAITP/ilsvrc_train_filelist.txt",
+        "test_filelist": "/grand/projects/ALCFAITP/ilsvrc_val_filelist.txt",
+        "shuffle_buffer": 200000,
+        "reshuffle_each_iteration": true,
+        "num_parallel_readers": 128,
+        "prefetch_buffer_size": 8,
+        "crop_image_size": [
+            256,
+            256
+        ],
+        "num_classes": 1000,
+        "num_channels": 3
+    }
+}
+[[36m2022-11-13 01:25:16,505[0m][[34mai4sci.ilsvrc_dataset[0m][[32mINFO[0m] - input filelist contains 1281167 files, estimated batches per rank 312[0m
+build dataset /grand/projects/ALCFAITP/ilsvrc_val_filelist.txt
+[[36m2022-11-13 01:25:18,806[0m][[34mai4sci.ilsvrc_dataset[0m][[32mINFO[0m] - input filelist contains 50000 files, estimated batches per rank 12[0m
+thetagpu05:3605291:3607580 [0] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605291:3607580 [0] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605291:3607580 [0] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605291:3607580 [0] NCCL INFO Using network IB
+NCCL version 2.12.12+cuda11.0
+thetagpu05:3605295:3607585 [4] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605297:3607586 [6] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605292:3607581 [1] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605293:3607582 [2] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605298:3607583 [7] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605294:3607587 [3] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605292:3607581 [1] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605293:3607582 [2] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605297:3607586 [6] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605294:3607587 [3] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605298:3607583 [7] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605295:3607585 [4] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605296:3607584 [5] NCCL INFO Bootstrap : Using enp226s0:10.230.2.193<0>
+thetagpu05:3605296:3607584 [5] NCCL INFO NET/Plugin : No plugin found (libnccl-net.so), using internal implementation
+thetagpu05:3605297:3607586 [6] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605297:3607586 [6] NCCL INFO Using network IB
+thetagpu05:3605298:3607583 [7] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605298:3607583 [7] NCCL INFO Using network IB
+thetagpu05:3605296:3607584 [5] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605296:3607584 [5] NCCL INFO Using network IB
+thetagpu05:3605293:3607582 [2] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605293:3607582 [2] NCCL INFO Using network IB
+thetagpu05:3605292:3607581 [1] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605292:3607581 [1] NCCL INFO Using network IB
+thetagpu05:3605295:3607585 [4] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605295:3607585 [4] NCCL INFO Using network IB
+thetagpu05:3605294:3607587 [3] NCCL INFO NET/IB : Using [0]mlx5_0:1/IB [1]mlx5_1:1/IB [2]mlx5_2:1/IB [3]mlx5_3:1/IB [4]mlx5_4:1/IB [5]mlx5_5:1/RoCE [6]mlx5_6:1/IB [7]mlx5_7:1/IB [8]mlx5_8:1/IB [9]mlx5_9:1/IB [10]mlx5_10:1/IB [11]mlx5_11:1/RoCE [RO]; OOB enp226s0:10.230.2.193<0>
+thetagpu05:3605294:3607587 [3] NCCL INFO Using network IB
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00/16 :    0   7   6   5   4   3   2   1   8  15  14  13  12  11  10   9
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 01/16 :    0   9  15  14  13  12  11  10   8   1   7   6   5   4   3   2
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 02/16 :    0   7   6   5   4   3  10   9   8  15  14  13  12  11   2   1
+thetagpu05:3605297:3607586 [6] NCCL INFO Trees [0] 7/-1/-1->6->5 [1] 7/-1/-1->6->5 [2] 7/-1/-1->6->5 [3] 7/-1/-1->6->5 [4] 7/-1/-1->6->5 [5] 7/-1/-1->6->4 [6] 7/14/-1->6->-1 [7] 0/-1/-1->6->7 [8] 7/-1/-1->6->5 [9] 7/-1/-1->6->5 [10] 7/-1/-1->6->5 [11] 7/-1/-1->6->5 [12] 7/-1/-1->6->5 [13] 7/-1/-1->6->4 [14] 7/-1/-1->6->14 [15] 0/-1/-1->6->7
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 03/16 :    0   7   6   5   4   2  11   9   8  15  14  13  12  10   3   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 04/16 :    0   7   6   5  12  11  10   9   8  15  14  13   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 05/16 :    0   7   6   4  13  11  10   9   8  15  14  12   5   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 06/16 :    0   7  14  13  12  11  10   9   8  15   6   5   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 07/16 :    0   6  15  13  12  11  10   9   8  14   7   5   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08/16 :    0   7   6   5   4   3   2   1   8  15  14  13  12  11  10   9
+thetagpu05:3605298:3607583 [7] NCCL INFO Trees [0] -1/-1/-1->7->6 [1] -1/-1/-1->7->6 [2] 0/-1/-1->7->6 [3] 0/-1/-1->7->6 [4] 0/-1/-1->7->6 [5] 0/-1/-1->7->6 [6] 0/-1/-1->7->6 [7] 6/15/-1->7->-1 [8] -1/-1/-1->7->6 [9] -1/-1/-1->7->6 [10] 0/-1/-1->7->6 [11] 0/-1/-1->7->6 [12] 0/-1/-1->7->6 [13] 0/-1/-1->7->6 [14] 0/-1/-1->7->6 [15] 6/-1/-1->7->15
+thetagpu05:3605292:3607581 [1] NCCL INFO Trees [0] 2/-1/-1->1->0 [1] 0/9/-1->1->-1 [2] -1/-1/-1->1->0 [3] -1/-1/-1->1->0 [4] 2/-1/-1->1->0 [5] 2/-1/-1->1->0 [6] 2/-1/-1->1->0 [7] 2/-1/-1->1->0 [8] 2/-1/-1->1->0 [9] 0/-1/-1->1->9 [10] -1/-1/-1->1->0 [11] -1/-1/-1->1->0 [12] 2/-1/-1->1->0 [13] 2/-1/-1->1->0 [14] 2/-1/-1->1->0 [15] 2/-1/-1->1->0
+thetagpu05:3605293:3607582 [2] NCCL INFO Trees [0] 3/-1/-1->2->1 [1] 3/-1/-1->2->0 [2] 3/10/-1->2->-1 [3] 4/-1/-1->2->3 [4] 3/-1/-1->2->1 [5] 3/-1/-1->2->1 [6] 3/-1/-1->2->1 [7] 3/-1/-1->2->1 [8] 3/-1/-1->2->1 [9] 3/-1/-1->2->0 [10] 3/-1/-1->2->10 [11] 4/-1/-1->2->3 [12] 3/-1/-1->2->1 [13] 3/-1/-1->2->1 [14] 3/-1/-1->2->1 [15] 3/-1/-1->2->1
+thetagpu05:3605295:3607585 [4] NCCL INFO Trees [0] 5/-1/-1->4->3 [1] 5/-1/-1->4->3 [2] 5/-1/-1->4->3 [3] 5/-1/-1->4->2 [4] 5/12/-1->4->-1 [5] 6/-1/-1->4->5 [6] 5/-1/-1->4->3 [7] 5/-1/-1->4->3 [8] 5/-1/-1->4->3 [9] 5/-1/-1->4->3 [10] 5/-1/-1->4->3 [11] 5/-1/-1->4->2 [12] 5/-1/-1->4->12 [13] 6/-1/-1->4->5 [14] 5/-1/-1->4->3 [15] 5/-1/-1->4->3
+thetagpu05:3605294:3607587 [3] NCCL INFO Trees [0] 4/-1/-1->3->2 [1] 4/-1/-1->3->2 [2] 4/-1/-1->3->2 [3] 2/11/-1->3->-1 [4] -1/-1/-1->3->2 [5] -1/-1/-1->3->2 [6] 4/-1/-1->3->2 [7] 4/-1/-1->3->2 [8] 4/-1/-1->3->2 [9] 4/-1/-1->3->2 [10] 4/-1/-1->3->2 [11] 2/-1/-1->3->11 [12] -1/-1/-1->3->2 [13] -1/-1/-1->3->2 [14] 4/-1/-1->3->2 [15] 4/-1/-1->3->2
+thetagpu05:3605296:3607584 [5] NCCL INFO Trees [0] 6/-1/-1->5->4 [1] 6/-1/-1->5->4 [2] 6/-1/-1->5->4 [3] 6/-1/-1->5->4 [4] 6/-1/-1->5->4 [5] 4/13/-1->5->-1 [6] -1/-1/-1->5->4 [7] -1/-1/-1->5->4 [8] 6/-1/-1->5->4 [9] 6/-1/-1->5->4 [10] 6/-1/-1->5->4 [11] 6/-1/-1->5->4 [12] 6/-1/-1->5->4 [13] 4/-1/-1->5->13 [14] -1/-1/-1->5->4 [15] -1/-1/-1->5->4
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 09/16 :    0   9  15  14  13  12  11  10   8   1   7   6   5   4   3   2
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 10/16 :    0   7   6   5   4   3  10   9   8  15  14  13  12  11   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 11/16 :    0   7   6   5   4   2  11   9   8  15  14  13  12  10   3   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 12/16 :    0   7   6   5  12  11  10   9   8  15  14  13   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 13/16 :    0   7   6   4  13  11  10   9   8  15  14  12   5   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 14/16 :    0   7  14  13  12  11  10   9   8  15   6   5   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 15/16 :    0   6  15  13  12  11  10   9   8  14   7   5   4   3   2   1
+thetagpu05:3605291:3607580 [0] NCCL INFO Trees [0] 1/8/-1->0->-1 [1] 2/-1/-1->0->1 [2] 1/-1/-1->0->7 [3] 1/-1/-1->0->7 [4] 1/-1/-1->0->7 [5] 1/-1/-1->0->7 [6] 1/-1/-1->0->7 [7] 1/-1/-1->0->6 [8] 1/-1/-1->0->8 [9] 2/-1/-1->0->1 [10] 1/-1/-1->0->7 [11] 1/-1/-1->0->7 [12] 1/-1/-1->0->7 [13] 1/-1/-1->0->7 [14] 1/-1/-1->0->7 [15] 1/-1/-1->0->6
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 02/0 : 11[4e000] -> 2[47000] [receive] via NET/IB/2/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 02/0 : 3[4e000] -> 10[47000] [send] via NET/IB/2/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 10/0 : 11[4e000] -> 2[47000] [receive] via NET/IB/2/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 10/0 : 3[4e000] -> 10[47000] [send] via NET/IB/2/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 01 : 1[f000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 07 : 0[7000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 04/0 : 13[90000] -> 4[87000] [receive] via NET/IB/6/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 12/0 : 13[90000] -> 4[87000] [receive] via NET/IB/6/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 04/0 : 5[90000] -> 12[87000] [send] via NET/IB/6/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 12/0 : 5[90000] -> 12[87000] [send] via NET/IB/6/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 09 : 1[f000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 15 : 0[7000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 06/0 : 15[bd000] -> 6[b7000] [receive] via NET/IB/8/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 14/0 : 15[bd000] -> 6[b7000] [receive] via NET/IB/8/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 00/0 : 1[f000] -> 8[7000] [send] via NET/IB/0/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 08/0 : 1[f000] -> 8[7000] [send] via NET/IB/0/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00/0 : 9[f000] -> 0[7000] [receive] via NET/IB/0/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 03/0 : 10[47000] -> 3[4e000] [receive] via NET/IB/3/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 11/0 : 10[47000] -> 3[4e000] [receive] via NET/IB/3/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 03/0 : 2[47000] -> 11[4e000] [send] via NET/IB/3/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 11/0 : 2[47000] -> 11[4e000] [send] via NET/IB/3/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08/0 : 9[f000] -> 0[7000] [receive] via NET/IB/0/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 02 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 03 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 04 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 05 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 06 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 10 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 11 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 12 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 13 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 14 : 0[7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 05/0 : 12[87000] -> 5[90000] [receive] via NET/IB/7/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 13/0 : 12[87000] -> 5[90000] [receive] via NET/IB/7/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 06/0 : 7[bd000] -> 14[b7000] [send] via NET/IB/8/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 05/0 : 4[87000] -> 13[90000] [send] via NET/IB/7/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 14/0 : 7[bd000] -> 14[b7000] [send] via NET/IB/8/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 03 : 3[4e000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 01/0 : 8[7000] -> 1[f000] [receive] via NET/IB/1/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 09/0 : 8[7000] -> 1[f000] [receive] via NET/IB/1/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 11 : 3[4e000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 05 : 5[90000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 13/0 : 4[87000] -> 13[90000] [send] via NET/IB/7/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 13 : 5[90000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 01 : 2[47000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 09 : 2[47000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 07/0 : 6[b7000] -> 15[bd000] [send] via NET/IB/9/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 15/0 : 6[b7000] -> 15[bd000] [send] via NET/IB/9/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 01/0 : 0[7000] -> 9[f000] [send] via NET/IB/1/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 09/0 : 0[7000] -> 9[f000] [send] via NET/IB/1/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 03 : 4[87000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 11 : 4[87000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 05 : 6[b7000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 07/0 : 14[b7000] -> 7[bd000] [receive] via NET/IB/9/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 13 : 6[b7000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 00 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 02 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 04 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 05 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 06 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 07 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 08 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 10 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 12 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 13 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 14 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 15 : 2[47000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 00 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 01 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 02 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 15/0 : 14[b7000] -> 7[bd000] [receive] via NET/IB/9/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 04 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 06 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 00 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 07 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 01 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 08 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 02 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 09 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 03 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 10 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 04 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 12 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 06 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 14 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 08 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 15 : 4[87000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 09 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 02 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 10 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 03 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 11 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 00 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 04 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 12 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 01 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 05 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 07 : 7[bd000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 14 : 6[b7000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 04 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 06 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 05 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 15 : 7[bd000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 07 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 06 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 10 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 07 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 11 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 00 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 08 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 01 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 12 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 09 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 13 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 02 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 12 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 14 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 03 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 13 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 15 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 04 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 14 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 05 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 15 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 08 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 09 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 10 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 11 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 12 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 13 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Connected all rings
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 01 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 00 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 02 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 01 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 03 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 02 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 04 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 03 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 05 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 06 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 06 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 07 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Connected all rings
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 07 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 08 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Connected all rings
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 09 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Connected all rings
+thetagpu05:3605293:3607582 [2] NCCL INFO Connected all rings
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 09 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 10 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 10 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 11 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 11 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 14 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 12 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 15 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 13 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 14 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 15 : 0[7000] -> 1[f000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 00 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 01 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 02 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 03 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 04 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 00 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 05 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 04 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 06 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 00 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 05 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 01 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 07 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 06 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 08 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 02 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 07 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 09 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 06 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Connected all rings
+thetagpu05:3605297:3607586 [6] NCCL INFO Connected all rings
+thetagpu05:3605295:3607585 [4] NCCL INFO Connected all rings
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 08 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 10 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 07 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 12 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 11 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 08 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 13 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 09 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 12 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 14 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 10 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 13 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 15 : 1[f000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 14 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 14 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 15 : 2[47000] -> 3[4e000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 15 : 3[4e000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 00 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 00 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 01 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 01 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 02 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 02 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 03 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 03 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 04 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 04 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 01 : 0[7000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 05 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 05 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 06 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 09 : 0[7000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 00 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 06 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 07 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 01 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 07 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 08 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 02 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 08 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 09 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 03 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 09 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 10 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 04 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 10 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 11 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 08 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 11 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 12 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 09 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 12 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 01/0 : 9[f000] -> 1[f000] [receive] via NET/IB/1/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 09/0 : 9[f000] -> 1[f000] [receive] via NET/IB/1/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 01/0 : 1[f000] -> 9[f000] [send] via NET/IB/1/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 09/0 : 1[f000] -> 9[f000] [send] via NET/IB/1/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 13 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 10 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 13 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 14 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 11 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 14 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 03 : 2[47000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 15 : 6[b7000] -> 7[bd000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 12 : 5[90000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 15 : 4[87000] -> 5[90000] via P2P/IPC/read
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 11 : 2[47000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00/0 : 8[7000] -> 0[7000] [receive] via NET/IB/0/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08/0 : 8[7000] -> 0[7000] [receive] via NET/IB/0/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 00/0 : 0[7000] -> 8[7000] [send] via NET/IB/0/GDRDMA
+thetagpu05:3605291:3607580 [0] NCCL INFO Channel 08/0 : 0[7000] -> 8[7000] [send] via NET/IB/0/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 07/0 : 15[bd000] -> 7[bd000] [receive] via NET/IB/9/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 15/0 : 15[bd000] -> 7[bd000] [receive] via NET/IB/9/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 07/0 : 7[bd000] -> 15[bd000] [send] via NET/IB/9/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 15/0 : 7[bd000] -> 15[bd000] [send] via NET/IB/9/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 00 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 01 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 05/0 : 13[90000] -> 5[90000] [receive] via NET/IB/7/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 13/0 : 13[90000] -> 5[90000] [receive] via NET/IB/7/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 05/0 : 5[90000] -> 13[90000] [send] via NET/IB/7/GDRDMA
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 13/0 : 5[90000] -> 13[90000] [send] via NET/IB/7/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 03/0 : 11[4e000] -> 3[4e000] [receive] via NET/IB/3/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 11/0 : 11[4e000] -> 3[4e000] [receive] via NET/IB/3/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 03/0 : 3[4e000] -> 11[4e000] [send] via NET/IB/3/GDRDMA
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 11/0 : 3[4e000] -> 11[4e000] [send] via NET/IB/3/GDRDMA
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 08 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605292:3607581 [1] NCCL INFO Channel 09 : 1[f000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 05 : 4[87000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 13 : 4[87000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 06/0 : 14[b7000] -> 6[b7000] [receive] via NET/IB/8/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 14/0 : 14[b7000] -> 6[b7000] [receive] via NET/IB/8/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 06/0 : 6[b7000] -> 14[b7000] [send] via NET/IB/8/GDRDMA
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 14/0 : 6[b7000] -> 14[b7000] [send] via NET/IB/8/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 02/0 : 10[47000] -> 2[47000] [receive] via NET/IB/2/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 10/0 : 10[47000] -> 2[47000] [receive] via NET/IB/2/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 02/0 : 2[47000] -> 10[47000] [send] via NET/IB/2/GDRDMA
+thetagpu05:3605293:3607582 [2] NCCL INFO Channel 10/0 : 2[47000] -> 10[47000] [send] via NET/IB/2/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 02 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 03 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 04 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 04/0 : 12[87000] -> 4[87000] [receive] via NET/IB/6/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 12/0 : 12[87000] -> 4[87000] [receive] via NET/IB/6/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 04/0 : 4[87000] -> 12[87000] [send] via NET/IB/6/GDRDMA
+thetagpu05:3605295:3607585 [4] NCCL INFO Channel 12/0 : 4[87000] -> 12[87000] [send] via NET/IB/6/GDRDMA
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 05 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 06 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 10 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 11 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 12 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 02 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 13 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 03 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 14 : 7[bd000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 04 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 10 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 05 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605294:3607587 [3] NCCL INFO Channel 11 : 3[4e000] -> 2[47000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 12 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605296:3607584 [5] NCCL INFO Channel 13 : 5[90000] -> 4[87000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 07 : 6[b7000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605297:3607586 [6] NCCL INFO Channel 15 : 6[b7000] -> 0[7000] via P2P/IPC/read
+thetagpu05:3605295:3607585 [4] NCCL INFO Connected all trees
+thetagpu05:3605295:3607585 [4] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605295:3607585 [4] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605296:3607584 [5] NCCL INFO Connected all trees
+thetagpu05:3605296:3607584 [5] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605296:3607584 [5] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605294:3607587 [3] NCCL INFO Connected all trees
+thetagpu05:3605294:3607587 [3] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605294:3607587 [3] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605293:3607582 [2] NCCL INFO Connected all trees
+thetagpu05:3605293:3607582 [2] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605293:3607582 [2] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 06 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 07 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 14 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605298:3607583 [7] NCCL INFO Channel 15 : 7[bd000] -> 6[b7000] via P2P/IPC/read
+thetagpu05:3605291:3607580 [0] NCCL INFO Connected all trees
+thetagpu05:3605291:3607580 [0] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605291:3607580 [0] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605292:3607581 [1] NCCL INFO Connected all trees
+thetagpu05:3605292:3607581 [1] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605292:3607581 [1] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605298:3607583 [7] NCCL INFO Connected all trees
+thetagpu05:3605298:3607583 [7] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605298:3607583 [7] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605297:3607586 [6] NCCL INFO Connected all trees
+thetagpu05:3605297:3607586 [6] NCCL INFO threadThresholds 8/8/64 | 128/8/64 | 8/8/512
+thetagpu05:3605297:3607586 [6] NCCL INFO 16 coll channels, 16 p2p channels, 2 p2p channels per peer
+thetagpu05:3605291:3607580 [0] NCCL INFO comm 0x7f6c8b0ba7c0 rank 0 nranks 16 cudaDev 0 busId 7000 - Init COMPLETE
+thetagpu05:3605292:3607581 [1] NCCL INFO comm 0x7f7b8f132a20 rank 1 nranks 16 cudaDev 1 busId f000 - Init COMPLETE
+thetagpu05:3605293:3607582 [2] NCCL INFO comm 0x7f9c0b14d9e0 rank 2 nranks 16 cudaDev 2 busId 47000 - Init COMPLETE
+thetagpu05:3605294:3607587 [3] NCCL INFO comm 0x7f379712aa20 rank 3 nranks 16 cudaDev 3 busId 4e000 - Init COMPLETE
+thetagpu05:3605295:3607585 [4] NCCL INFO comm 0x7fa4d70e9bd0 rank 4 nranks 16 cudaDev 4 busId 87000 - Init COMPLETE
+thetagpu05:3605296:3607584 [5] NCCL INFO comm 0x7fe057131b90 rank 5 nranks 16 cudaDev 5 busId 90000 - Init COMPLETE
+thetagpu05:3605297:3607586 [6] NCCL INFO comm 0x7f1d330eabd0 rank 6 nranks 16 cudaDev 6 busId b7000 - Init COMPLETE
+thetagpu05:3605298:3607583 [7] NCCL INFO comm 0x7faebb0e8400 rank 7 nranks 16 cudaDev 7 busId bd000 - Init COMPLETE
+thetagpu05:3605291:3607580 [0] NCCL INFO Launch mode Parallel
+[[36m2022-11-13 01:25:45,063[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 0 / 80072 (0%)] epoch=0.0000 dt=23.2620 running_loss=0.0001 batch_loss=0.0291 acc=0.0000 batch_acc=0.0000[0m
+[[36m2022-11-13 01:25:52,720[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 2560 / 80072 (3%)] epoch=0.0000 dt=0.3139 running_loss=0.0011 batch_loss=0.0273 acc=0.0000 batch_acc=0.0039[0m
+[[36m2022-11-13 01:25:58,011[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 5120 / 80072 (6%)] epoch=0.0000 dt=0.5085 running_loss=0.0020 batch_loss=0.0273 acc=0.0001 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:03,286[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 7680 / 80072 (10%)] epoch=0.0000 dt=0.4790 running_loss=0.0029 batch_loss=0.0284 acc=0.0001 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:08,770[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 10240 / 80072 (13%)] epoch=0.0000 dt=0.5152 running_loss=0.0038 batch_loss=0.0270 acc=0.0002 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:15,472[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 12800 / 80072 (16%)] epoch=0.0000 dt=0.7804 running_loss=0.0046 batch_loss=0.0267 acc=0.0003 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:21,311[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 15360 / 80072 (19%)] epoch=0.0000 dt=0.8039 running_loss=0.0055 batch_loss=0.0267 acc=0.0004 batch_acc=0.0039[0m
+[[36m2022-11-13 01:26:26,824[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 17920 / 80072 (22%)] epoch=0.0000 dt=0.5030 running_loss=0.0063 batch_loss=0.0265 acc=0.0005 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:32,223[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 20480 / 80072 (26%)] epoch=0.0000 dt=0.3846 running_loss=0.0072 batch_loss=0.0266 acc=0.0006 batch_acc=0.0039[0m
+[[36m2022-11-13 01:26:37,636[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 23040 / 80072 (29%)] epoch=0.0000 dt=0.4899 running_loss=0.0080 batch_loss=0.0267 acc=0.0007 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:43,283[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 25600 / 80072 (32%)] epoch=0.0000 dt=0.5309 running_loss=0.0089 batch_loss=0.0264 acc=0.0008 batch_acc=0.0039[0m
+[[36m2022-11-13 01:26:49,409[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 28160 / 80072 (35%)] epoch=0.0000 dt=0.3750 running_loss=0.0097 batch_loss=0.0267 acc=0.0009 batch_acc=0.0000[0m
+[[36m2022-11-13 01:26:54,616[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 30720 / 80072 (38%)] epoch=0.0000 dt=0.4450 running_loss=0.0106 batch_loss=0.0266 acc=0.0010 batch_acc=0.0039[0m
+[[36m2022-11-13 01:27:00,925[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 33280 / 80072 (42%)] epoch=0.0000 dt=1.4734 running_loss=0.0114 batch_loss=0.0262 acc=0.0011 batch_acc=0.0039[0m
+[[36m2022-11-13 01:27:05,807[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 35840 / 80072 (45%)] epoch=0.0000 dt=0.4194 running_loss=0.0123 batch_loss=0.0263 acc=0.0012 batch_acc=0.0078[0m
+[[36m2022-11-13 01:27:11,817[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 38400 / 80072 (48%)] epoch=0.0000 dt=0.4997 running_loss=0.0131 batch_loss=0.0265 acc=0.0014 batch_acc=0.0000[0m
+[[36m2022-11-13 01:27:19,252[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 40960 / 80072 (51%)] epoch=0.0000 dt=0.4079 running_loss=0.0140 batch_loss=0.0262 acc=0.0016 batch_acc=0.0195[0m
+[[36m2022-11-13 01:27:24,081[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 43520 / 80072 (54%)] epoch=0.0000 dt=0.3623 running_loss=0.0148 batch_loss=0.0259 acc=0.0017 batch_acc=0.0078[0m
+[[36m2022-11-13 01:27:29,549[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 46080 / 80072 (58%)] epoch=0.0000 dt=0.2776 running_loss=0.0156 batch_loss=0.0261 acc=0.0018 batch_acc=0.0078[0m
+[[36m2022-11-13 01:27:35,100[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 48640 / 80072 (61%)] epoch=0.0000 dt=0.8052 running_loss=0.0165 batch_loss=0.0258 acc=0.0020 batch_acc=0.0078[0m
+[[36m2022-11-13 01:27:41,051[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 51200 / 80072 (64%)] epoch=0.0000 dt=0.4565 running_loss=0.0173 batch_loss=0.0259 acc=0.0022 batch_acc=0.0078[0m
+[[36m2022-11-13 01:27:46,501[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 53760 / 80072 (67%)] epoch=0.0000 dt=0.4607 running_loss=0.0181 batch_loss=0.0265 acc=0.0023 batch_acc=0.0000[0m
+[[36m2022-11-13 01:27:52,417[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 56320 / 80072 (71%)] epoch=0.0000 dt=0.6549 running_loss=0.0190 batch_loss=0.0259 acc=0.0024 batch_acc=0.0000[0m
+[[36m2022-11-13 01:27:58,372[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 58880 / 80072 (74%)] epoch=0.0000 dt=0.5174 running_loss=0.0198 batch_loss=0.0262 acc=0.0027 batch_acc=0.0078[0m
+[[36m2022-11-13 01:28:05,876[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 61440 / 80072 (77%)] epoch=0.0000 dt=0.4784 running_loss=0.0206 batch_loss=0.0256 acc=0.0028 batch_acc=0.0039[0m
+[[36m2022-11-13 01:28:11,723[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 64000 / 80072 (80%)] epoch=0.0000 dt=0.4469 running_loss=0.0214 batch_loss=0.0260 acc=0.0031 batch_acc=0.0000[0m
+[[36m2022-11-13 01:28:16,941[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 66560 / 80072 (83%)] epoch=0.0000 dt=0.4759 running_loss=0.0222 batch_loss=0.0254 acc=0.0034 batch_acc=0.0078[0m
+[[36m2022-11-13 01:28:22,775[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 69120 / 80072 (87%)] epoch=0.0000 dt=0.5522 running_loss=0.0231 batch_loss=0.0246 acc=0.0037 batch_acc=0.0195[0m
+[[36m2022-11-13 01:28:29,108[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 71680 / 80072 (90%)] epoch=0.0000 dt=0.4393 running_loss=0.0239 batch_loss=0.0249 acc=0.0040 batch_acc=0.0039[0m
+[[36m2022-11-13 01:28:33,973[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 74240 / 80072 (93%)] epoch=0.0000 dt=0.4041 running_loss=0.0247 batch_loss=0.0249 acc=0.0044 batch_acc=0.0117[0m
+[[36m2022-11-13 01:28:39,247[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 76800 / 80072 (96%)] epoch=0.0000 dt=0.4368 running_loss=0.0255 batch_loss=0.0247 acc=0.0049 batch_acc=0.0195[0m
+[[36m2022-11-13 01:28:45,414[0m][[34mai4sci.trainer[0m][[32mINFO[0m] - [0] [0/1: 79360 / 80072 (99%)] epoch=0.0000 dt=0.4472 running_loss=0.0263 batch_loss=0.0249 acc=0.0055 batch_acc=0.0117[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.2711501121521 seconds[0m
+[[36m2022-11-13 01:28:47,518[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.9388222694397 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.5976173877716[0m
+[[36m2022-11-13 01:28:47,518[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.93855547904968 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.58646154403687[0m
+[[36m2022-11-13 01:28:47,511[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.9319281578064 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.58934211730957[0m
+[[36m2022-11-13 01:28:47,514[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.9345724582672 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.59417462348938[0m
+[[36m2022-11-13 01:28:47,514[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.9341320991516 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.59221029281616[0m
+[[36m2022-11-13 01:28:47,511[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.93180799484253 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.59136962890625[0m
+[[36m2022-11-13 01:28:47,520[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 212.94080185890198 seconds[0m
+[[36m2022-11-13 01:28:47,554[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.5953130722046[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.26897883415222 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27001452445984 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27052760124207 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27052664756775 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27239274978638 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27603721618652 seconds[0m
+[[36m2022-11-13 01:28:47,510[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 213.27060794830322 seconds[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.0066797733307[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.01179194450378[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.0314235687256[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.02323055267334[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.8994448184967[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.9426097869873[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.02970242500305[0m
+[[36m2022-11-13 01:28:47,512[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 209.02552556991577[0m
+thetagpu05:3605298:3607583 [7] NCCL INFO comm 0x7faebb0e8400 rank 7 nranks 16 cudaDev 7 busId bd000 - Destroy COMPLETE
+thetagpu05:3605292:3607581 [1] NCCL INFO comm 0x7f7b8f132a20 rank 1 nranks 16 cudaDev 1 busId f000 - Destroy COMPLETE
+thetagpu05:3605294:3607587 [3] NCCL INFO comm 0x7f379712aa20 rank 3 nranks 16 cudaDev 3 busId 4e000 - Destroy COMPLETE
+thetagpu05:3605296:3607584 [5] NCCL INFO comm 0x7fe057131b90 rank 5 nranks 16 cudaDev 5 busId 90000 - Destroy COMPLETE
+thetagpu05:3605291:3607580 [0] NCCL INFO comm 0x7f6c8b0ba7c0 rank 0 nranks 16 cudaDev 0 busId 7000 - Destroy COMPLETE
+thetagpu05:3605297:3607586 [6] NCCL INFO comm 0x7f1d330eabd0 rank 6 nranks 16 cudaDev 6 busId b7000 - Destroy COMPLETE
+thetagpu05:3605293:3607582 [2] NCCL INFO comm 0x7f9c0b14d9e0 rank 2 nranks 16 cudaDev 2 busId 47000 - Destroy COMPLETE
+thetagpu05:3605295:3607585 [4] NCCL INFO comm 0x7fa4d70e9bd0 rank 4 nranks 16 cudaDev 4 busId 87000 - Destroy COMPLETE
+[[36m2022-11-13 01:28:51,946[0m][[34m__main__[0m][[32mINFO[0m] - -------------------[0m
+[[36m2022-11-13 01:28:51,946[0m][[34m__main__[0m][[32mINFO[0m] - [TEST] Accuracy: 0%[0m
+[[36m2022-11-13 01:28:51,947[0m][[34m__main__[0m][[32mINFO[0m] - -------------------[0m
+[[36m2022-11-13 01:28:51,949[0m][[34m__main__[0m][[32mINFO[0m] - ----------------------------[0m
+[[36m2022-11-13 01:28:51,949[0m][[34m__main__[0m][[32mINFO[0m] - [TRAIN]  loss=0.0016  acc=0%[0m
+[[36m2022-11-13 01:28:51,949[0m][[34m__main__[0m][[32mINFO[0m] - ----------------------------[0m
+[[36m2022-11-13 01:28:52,622[0m][[34m__main__[0m][[32mINFO[0m] - Total training time: 218.04287481307983 seconds[0m
+[[36m2022-11-13 01:28:52,623[0m][[34m__main__[0m][[32mINFO[0m] - Average time per epoch in the last 5: 208.59011149406433[0m
